@@ -1,0 +1,19 @@
+* {
+background-color: darkslategrey;
+}
+
+h1, h2 {
+    color: antiquewhite;
+}
+
+li {
+    color: white;
+}
+ p {
+     color: white;
+ }
+
+ img {
+     width: 500px;
+     height: auto;
+ }
